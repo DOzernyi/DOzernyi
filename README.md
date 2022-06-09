@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DOzernyi
-- 👀 I’m interested in language acquisition and learnability.
-- 🌱 Surviving in the world of pandemic and academic publishing.
+- 👀 I’m interested in language acquisition and learnability. I fix LaTeX documents in my leisure.
 - 💞️ If you have a homogenous group of quadrilinguals, hmu!
 - 📫 dozernyi.com
 
